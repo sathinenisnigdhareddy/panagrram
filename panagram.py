@@ -14,6 +14,10 @@ if(flag=='not found'):
     print('string is not a panagram')
 else:
     print('string is a panagram')
+<<<<<<< HEAD
 
+=======
+    #hello
+>>>>>>> 715b2637a303884b7cada78de551a0bac538660a
         
         
